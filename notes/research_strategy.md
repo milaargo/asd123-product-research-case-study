@@ -198,12 +198,20 @@ With seven participants spread across several stakeholder groups, I did not want
 
 Competitive evidence provided another source against which I could compare emerging recommendations.
 
-It helped answer:
+![Competitive analysis used to benchmark ASD123 against products bridging therapeutic use and children's gaming](../visuals/competitive_analysis.png)
 
-- What expectations already existed in the category?
-- Which patterns were common enough to treat as conventions?
-- Where was ASD123 behind?
-- Where might it differentiate?
+*The working competitive analysis was broader than the final artifact shown here. I narrowed the comparison to products most relevant to ASD123's goal of combining therapeutic value with a children's gaming experience.*
+
+The comparison was not intended to prove that common competitor features were automatically right for ASD123.
+
+I used it to distinguish between two different questions:
+
+1. **What had become a category expectation?**
+2. **What did our own research suggest ASD123 actually needed?**
+
+That distinction became important later. For example, onboarding appeared consistently across competitors, but I was less confident that our team should define the details of a clinical speech assessment. By contrast, visible progression, rewards, and activity choice were supported more directly by participant evidence.
+
+Competitive research therefore helped me benchmark the product without treating competitors as substitutes for user evidence.
 
 We considered expanding the analysis to mainstream children's games mentioned during interviews.
 
