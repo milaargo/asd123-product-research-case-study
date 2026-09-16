@@ -188,36 +188,49 @@ For me, that was one of the most meaningful findings in the project.
 
 Competitive analysis was always useful for benchmarking.
 
-ASD123 wanted to become a children's gaming product that also served a therapeutic purpose.
+ASD123 wanted to evolve from a therapy-oriented product into an experience that could also compete with children's learning and gaming products.
 
-I therefore chose competitors that had already moved successfully between those worlds.
+I therefore compared ASD123 against products that were already combining speech, learning, and child-focused interaction patterns.
 
-But competitive research became even more important after recruitment constraints emerged.
+The analysis showed two things at once.
 
-With seven participants spread across several stakeholder groups, I did not want to overstate confidence in any single interview pattern.
+First, ASD123 already had an important capability in voice-command games, which gave it a strong foundation for speech-based interaction.
 
-Competitive evidence provided another source against which I could compare emerging recommendations.
+Second, several patterns appeared repeatedly across competitors that ASD123 did not yet offer, including:
 
-![Competitive analysis used to benchmark ASD123 against products bridging therapeutic use and children's gaming](../visuals/competitive_analysis.png)
+- rewards;
+- parent or "grown-ups only" controls;
+- onboarding assessments;
+- journey or progress tracking;
+- audio guidance;
+- dashboard or summary views.
 
-*The working competitive analysis was broader than the final artifact shown here. I narrowed the comparison to products most relevant to ASD123's goal of combining therapeutic value with a children's gaming experience.*
+With only seven research participants spread across several stakeholder groups, I did not want to treat interview findings as sufficient evidence on their own.
 
-The comparison was not intended to prove that common competitor features were automatically right for ASD123.
+Competitive research gave me another source against which I could compare emerging product opportunities.
+
+![Competitive analysis used to benchmark ASD123 against comparable children's speech and learning products](../visuals/competitive_analysis.png)
+
+*The working competitive analysis was broader than the final artifact shown here. This comparison captures the product conventions that became most relevant to the design discussion.*
+
+The comparison was not intended to prove that a feature was right for ASD123 simply because competitors had it.
 
 I used it to distinguish between two different questions:
 
-1. **What had become a category expectation?**
+1. **What had become a category convention?**
 2. **What did our own research suggest ASD123 actually needed?**
 
-That distinction became important later. For example, onboarding appeared consistently across competitors, but I was less confident that our team should define the details of a clinical speech assessment. By contrast, visible progression, rewards, and activity choice were supported more directly by participant evidence.
+That distinction mattered later.
 
-Competitive research therefore helped me benchmark the product without treating competitors as substitutes for user evidence.
+For example, onboarding appeared consistently across competitors, but I was less confident that our team should define the details of a clinical speech assessment without deeper clinical input.
 
-We considered expanding the analysis to mainstream children's games mentioned during interviews.
+By contrast, visible progression, rewards, and activity choice were supported more directly by participant research.
 
-Given the timeline, we chose not to add another research stream.
+Competitive research therefore helped me benchmark the product and identify opportunity areas without treating competitor features as substitutes for user evidence.
 
-That was a scope decision rather than a belief that those products were irrelevant.
+We also considered expanding the analysis to mainstream children's games mentioned during interviews.
+
+Given the timeline, we chose not to add another research stream. That was a scope decision rather than a belief that those products were irrelevant.
 
 ## Evidence Triangulation
 
