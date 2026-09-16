@@ -198,3 +198,7 @@ At the same time, it needed enough flexibility to:
 - give families meaningful control.
 
 That principle became more useful to me than any individual feature recommendation.
+
+---
+
+[← Back to main case study](../README.md)
