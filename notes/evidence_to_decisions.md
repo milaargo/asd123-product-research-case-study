@@ -4,29 +4,31 @@
 
 I transcribed the participant interviews and converted meaningful observations into individual notes.
 
-I initially worked physically with sticky notes and then transferred the synthesis into Miro so the rest of the team could inspect the evidence.
+I initially worked through the evidence independently, looking for repeated ideas across guardians, speech-language pathologists, and the education perspective. I then transferred the synthesis into our shared Miro workspace so the broader team could inspect the patterns and use them during the design process.
 
-I conducted the affinity mapping myself.
+Affinity mapping helped me move from individual comments to recurring conditions shaping engagement.
 
-The purpose was not to create a polished research artifact.
+![Affinity map grouping research observations into six recurring themes](../visuals/affinity_synthesis.png)
 
-I was looking for recurring conditions across different perspectives.
+*The synthesis grouped observations around six recurring conditions: reducing distraction, tracking and encouraging progress, immediate motivation, predictability and goal-setting, variety and choice, and calming visual or sensory considerations.*
 
-The most persistent themes included:
+The purpose was not to create themes for their own sake.
 
-- visible progress;
-- immediate motivation;
-- predictability;
-- choice;
-- distraction;
-- sensory flexibility;
-- continuity outside therapy.
+I needed to understand what those patterns implied for the product.
 
-Those patterns became the bridge between raw evidence and product direction.
+Several of the themes began connecting to one another:
+
+- progress and predictability suggested a clearer sense of progression;
+- immediate motivation suggested rewards and visible accomplishment;
+- variation in interests suggested greater activity choice;
+- sensory and visual differences suggested more adaptable presentation;
+- differences in how children processed instructions suggested multiple forms of guidance.
+
+Those connections became the bridge between research evidence and product direction.
 
 ## From Evidence to Design
 
-Once the synthesis was complete, I translated the recurring research patterns into functional product recommendations for the UI team.
+Once the synthesis was complete, I translated the recurring patterns into functional recommendations for the UI team.
 
 My role was to define **what the experience needed to support**, not to prescribe the final interface. Ayami translated those recommendations into the prototype concepts shown below.
 
@@ -37,13 +39,16 @@ My role was to define **what the experience needed to support**, not to prescrib
 **Prototype UI:** Ayami  
 **Research direction and recommendations:** Catherine Geissler
 
-These concepts were not equally supported by the same type or strength of evidence.
+The prototype explored all six directions our team chose to carry forward:
 
-- **Roadmap, rewards, and activity choice** were most directly grounded in participant research.
-- **Accessibility and audio guidance** drew from participant evidence combined with accessibility research.
-- **Onboarding** appeared strongly in the competitive landscape, but I was less confident that our team should define the details of a clinical speech assessment without deeper clinical input.
+1. Activity roadmap
+2. Onboarding assessment
+3. Activity library
+4. Rewards
+5. Audio instruction
+6. Accessibility and parent controls
 
-That distinction is important to how I think about the work now: a recommendation can be worth exploring without being equally validated.
+The visuals show the design team's interpretation of the research recommendations. They are not intended to imply that every direction had the same type or strength of supporting evidence.
 
 ## Not Every Recommendation Had the Same Evidence Strength
 
