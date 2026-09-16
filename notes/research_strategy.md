@@ -245,3 +245,7 @@ The purpose of triangulation was not to create the appearance of certainty.
 It was to understand whether different evidence sources were pointing toward compatible decisions.
 
 That became especially important because direct child-user research was unavailable.
+
+---
+
+[← Back to main case study](../README.md)
