@@ -16,6 +16,14 @@ Product research for an AI-supported speech-development app, from a constrained 
 - 2 guardians
 - 1 special-education teacher
 
+## From Research to Product
+
+| Earlier ASD123 experience | Live product, 2026 |
+| --- | --- |
+| ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 live product in 2026](visuals/asd123_shipped.png) |
+
+Two research-backed directions from the 2023 study, visible progression through an activity roadmap and a rewards system, were later incorporated into the launched product.
+
 ## The Product Challenge
 
 ASD123 began as a speech-development product designed around therapeutic activities.
