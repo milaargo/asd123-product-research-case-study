@@ -189,3 +189,7 @@ Observation shows what users are actually doing.
 Interviews help explain context, intent, and needs that behavior alone cannot reveal.
 
 That combination would let me move from designing based primarily on proxy evidence toward a much more complete picture of the child, family, clinician, and product together.
+
+---
+
+[← Back to main case study](../README.md)
