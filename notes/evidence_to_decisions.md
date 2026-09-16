@@ -24,6 +24,27 @@ The most persistent themes included:
 
 Those patterns became the bridge between raw evidence and product direction.
 
+## From Evidence to Design
+
+Once the synthesis was complete, I translated the recurring research patterns into functional product recommendations for the UI team.
+
+My role was to define **what the experience needed to support**, not to prescribe the final interface. Ayami translated those recommendations into the prototype concepts shown below.
+
+![Roadmap, onboarding assessment, and activity library concepts developed from the research recommendations](../visuals/evidence_to_design_01.png)
+
+![Rewards, audio guidance, and accessibility concepts developed from the research recommendations](../visuals/evidence_to_design_02.png)
+
+**Prototype UI:** Ayami  
+**Research direction and recommendations:** Catherine Geissler
+
+These concepts were not equally supported by the same type or strength of evidence.
+
+- **Roadmap, rewards, and activity choice** were most directly grounded in participant research.
+- **Accessibility and audio guidance** drew from participant evidence combined with accessibility research.
+- **Onboarding** appeared strongly in the competitive landscape, but I was less confident that our team should define the details of a clinical speech assessment without deeper clinical input.
+
+That distinction is important to how I think about the work now: a recommendation can be worth exploring without being equally validated.
+
 ## Not Every Recommendation Had the Same Evidence Strength
 
 One thing I would describe differently today is the six recommendations.
