@@ -18,15 +18,25 @@ Product research for an AI-supported speech-development app, from a constrained 
 
 ## From Research to Product
 
-| Earlier ASD123 experience | Live product, 2026 |
-| --- | --- |
-| ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 live product in 2026](visuals/asd123_shipped.png) |
+### Earlier ASD123 Experience
 
-Two research-backed directions from the 2023 study, visible progression through an activity roadmap and a rewards system, were later incorporated into the launched product.
+![Earlier ASD123 product experience](visuals/asd123_before.png)
+
+The earlier experience centered on selecting individual speech activities from a game library. While the activities were available, the interface offered less visible structure around progression, what came next, or how a child was moving through the experience.
+
+### Shipped Experience, 2026
+
+![ASD123 shipped product experience](visuals/asd123_shipped.png)
+
+The launched product introduced a map-based progression system with visible stages, locked future activities, and clearer signals of advancement.
+
+That direction closely reflects one of the strongest findings from the original research: children benefited from **visible progress, predictability, immediate motivation, and knowing what came next**.
+
+The final interface is not the same design our team proposed in 2023, and I think that distinction matters. The visual execution evolved, while the underlying research need remained relevant.
 
 ### Prototype Walkthrough
 
-The 2023 prototype shows how the UI team translated the research recommendations into a proposed product experience, including visible progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
+The 2023 prototype shows how the UI team originally translated the research recommendations into a proposed experience, including visible progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
 
 [▶ Watch the full ASD123 prototype walkthrough on YouTube](https://www.youtube.com/shorts/0XU4k_mGTg4)
 
