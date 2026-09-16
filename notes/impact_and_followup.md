@@ -109,3 +109,7 @@ The underlying research need survived:
 **children and families benefited from clearer progression and orientation.**
 
 That distinction is now much more important to me than whether a final screen matches an original mockup.
+
+---
+
+[← Back to main case study](../README.md)
