@@ -1,106 +1,111 @@
 # Impact and Follow-Up
 
-## Why I Returned to the Project
+## Why I Returned to ASD123
 
-The original research sprint ended in 2023, but the product itself continued developing.
+I contacted co-founder Sheeva again in 2026 while revisiting the project for my portfolio.
 
-When ASD123 launched in March 2026, I wanted to understand what had happened to the recommendations after handoff.
+The product had launched in March, and I wanted to understand what had happened after the original research handoff.
 
-I followed up with co-founder Sheeva to learn:
+I was especially interested in three questions:
 
-- which parts of the research had remained useful;
-- which recommendations had actually influenced the product;
-- how the team thought about the research in hindsight;
-- what they were hearing from families using the live experience.
+- What did the founders still remember about the research?
+- Which recommendations had actually influenced the product?
+- What had they learned from children, families, and clinicians using the live experience?
 
-The follow-up gave me something the original sprint could not: a view of the research after the design team had left the room.
+That conversation gave me a perspective the original sprint could not.
 
-## What Sheeva Remembered About the Research
+I was no longer asking what the team *planned* to build.
 
-What stood out most to Sheeva was not an individual interview finding or feature recommendation.
+I could ask what had remained useful after the product entered the real world.
 
-It was the decision to broaden the research beyond clinicians.
+## What Sheeva Remembered
 
-Because direct access to the children using ASD123 was restricted, I had reframed the study around the wider environment shaping the child's experience: guardians, speech-language pathologists, and an educator.
+One of the things Sheeva remembered most strongly was the decision to look beyond clinicians.
 
-During the follow-up, Sheeva described seeing a "ripple effect" across that research.
+Because direct access to ASD123's existing child users had been restricted, I had expanded the research to include the broader environment around the child.
 
-Looking at the broader ecosystem connected children's interests, learning patterns, therapeutic needs, and home environment in a way that a clinician-only study would not have captured.
+She described seeing a ripple effect across those perspectives.
 
-She described the research as helping:
+The research connected:
+
+- therapeutic needs;
+- children's interests;
+- learning behavior;
+- family involvement;
+- home use.
+
+She described the work as helping:
 
 > "bridge the therapist side and parent/child side in a seamless way."
 
-That was important to me because the central problem had never been simply how to redesign individual screens.
+That comment mattered because it reflected the central product problem I had been trying to understand.
 
-The larger challenge was how to preserve therapeutic structure while making the product useful when the clinician was no longer present.
+ASD123 was not only a therapy tool.
 
-## What Carried Into the Product
+It needed to work across the boundary between therapy and everyday life.
 
-The research produced several possible product directions.
+## Why the Roadmap and Rewards Survived
 
-Some reinforced ideas the founders had already been considering, including stronger onboarding and a more intentional parent experience.
+Sheeva told me that the roadmap and rewards concepts were her favorite parts of the original presentation.
 
-Others helped make the needs surrounding motivation, predictability, and visible progress more concrete.
+They addressed something she felt the product was missing:
 
-Ultimately, two research-backed directions became part of the live experience:
+**How do we motivate children to move between activities and keep participating?**
 
-### Activity Roadmap
+That question had emerged repeatedly during the original research.
 
-The research repeatedly surfaced the importance of knowing what came next, seeing progress, and making longer-term goals more tangible.
+The roadmap offered a clearer sense of progression.
 
-The roadmap translated that evidence into a visible progression system that gave children and families a clearer sense of movement through the experience.
+The rewards system gave children a more immediate reason to continue.
 
-In the follow-up, Sheeva said:
+Both translated therapeutic structure into mechanics that already felt familiar within children's games.
 
-> "Feedback I hear constantly from parents is how easy the roadmap is to maneuver."
+## What She Was Hearing After Launch
 
-### Rewards System
+Sheeva was especially excited that children were beginning to choose the product independently and that more speech-language pathologists were using ASD123 during therapy.
 
-The interviews also showed that long-term therapeutic benefit could be too abstract to motivate a child in the moment.
+She also shared feedback that families found the roadmap easy to navigate.
 
-Participants described the value of praise, reinforcement, visible accomplishment, and immediate reasons to continue.
-
-That evidence contributed to the recommendation for a rewards system that made progress feel more tangible during use.
-
-## What the Follow-Up Added to My Understanding
-
-One story from Sheeva stayed with me.
-
-She described a child who had begun reaching for the phone to play ASD123's games instead of reaching for her toys.
+One story stood out:
 
 > "One child in particular started reaching for the phone to play our games rather than her toys."
 
-I do not treat a single anecdote as proof that the research caused engagement.
+I do not treat one story as proof of broad product impact.
 
-What made it meaningful was that it connected back to one of the central tensions in the original study.
+What made it meaningful was its connection to the original research question.
 
-The product needed to support therapeutic goals without feeling like another obligation imposed on the child.
+One of the hardest product problems had been:
 
-The original research had repeatedly pointed toward immediate motivation, meaningful choice, and visible progression as conditions that could make participation easier.
+> How do you make therapeutic practice feel motivating enough that a child wants to participate?
 
-Hearing that a child was voluntarily choosing the experience gave me a new way to think about the research question.
+The anecdote suggested that, for at least one child, the product had crossed an important threshold.
 
-The goal was not only to make the product understandable.
+It was not only understandable.
 
-It was to create enough structure, autonomy, and motivation that a child might actually want to participate.
+It was something she voluntarily chose.
 
-## What I Learned From Following the Work Beyond Handoff
+## A Different Way of Thinking About Research Impact
 
-The follow-up changed how I think about research impact.
+The follow-up changed how I think about impact.
 
-During the original sprint, impact meant producing useful findings and giving the design team clear recommendations.
+Research does not only create value when a team implements an exact screen or feature.
 
-Looking back several years later, I see another layer.
+It can also:
 
-Research can influence a product by:
+- change how a team frames the user;
+- validate a direction;
+- connect previously separate needs;
+- influence how product priorities are discussed;
+- create principles that survive even when the final interface changes.
 
-- validating an existing direction;
-- reframing how a team understands its users;
-- introducing a new decision criterion;
-- connecting needs that had previously been considered separately;
-- giving the team language for something they had sensed but had not yet articulated.
+The roadmap is a good example.
 
-In ASD123, the most meaningful contribution may have been the shift from thinking primarily about a clinical tool to thinking about the entire environment in which a child learns and practices.
+The live product ultimately used a different visual implementation than the original prototype.
 
-That broader perspective shaped how I framed the findings, how the recommendations were prioritized, and how I now understand the role of research in product development.
+The design changed.
+
+The underlying research need survived:
+
+**children and families benefited from clearer progression and orientation.**
+
+That distinction is now much more important to me than whether a final screen matches an original mockup.
