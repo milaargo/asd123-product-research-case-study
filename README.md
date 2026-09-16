@@ -18,7 +18,7 @@ Product research for an AI-supported speech-development app, from a constrained 
 
 ## From Research to Product
 
-| Earlier ASD123 experience | Shipped product, 2026 |
+| Earlier ASD123 experience | Shipped features, 2026 |
 | --- | --- |
 | ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 shipped product experience showing roadmap progression and rewards](visuals/asd123_shipped.png) |
 
