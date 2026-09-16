@@ -24,6 +24,15 @@ Product research for an AI-supported speech-development app, from a constrained 
 
 Two research-backed directions from the 2023 study, visible progression through an activity roadmap and a rewards system, were later incorporated into the launched product.
 
+### Prototype Walkthrough
+
+The 2023 prototype shows how the UI team translated the research recommendations into a proposed product experience, including visible progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
+
+[▶ Watch the full ASD123 prototype walkthrough on YouTube](https://www.youtube.com/shorts/0XU4k_mGTg4)
+
+**Prototype UI:** Ayami  
+**Research direction and recommendations:** Catherine Geissler
+
 ## The Product Challenge
 
 ASD123 began as a speech-development product designed around therapeutic activities.
