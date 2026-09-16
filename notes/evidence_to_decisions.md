@@ -1,57 +1,174 @@
 # Evidence to Product Decisions
 
-The goal of synthesis was not simply to document what participants said.
+## How I Synthesized the Research
 
-I needed to translate recurring evidence into decisions the UI team could act on.
+I transcribed the participant interviews and converted meaningful observations into individual notes.
 
-## 1. Activity Roadmap
+I initially worked physically with sticky notes and then transferred the synthesis into Miro so the rest of the team could inspect the evidence.
 
-**Evidence:** Children benefited from visible progress, clear goals, predictability, and knowing what came next.
+I conducted the affinity mapping myself.
 
-**Decision:** Recommend a roadmap that made activity sequence and progression visible.
+The purpose was not to create a polished research artifact.
 
-**Why it mattered:** The roadmap shifted some of the structure normally supplied by a clinician into the product itself.
+I was looking for recurring conditions across different perspectives.
 
-**Outcome:** The roadmap was implemented in the launched product.
+The most persistent themes included:
 
-## 2. Rewards System
+- visible progress;
+- immediate motivation;
+- predictability;
+- choice;
+- distraction;
+- sensory flexibility;
+- continuity outside therapy.
 
-**Evidence:** Praise, immediate reinforcement, and visible accomplishment helped create buy-in, particularly when long-term therapeutic progress was too abstract to motivate a child in the moment.
+Those patterns became the bridge between raw evidence and product direction.
 
-**Decision:** Introduce collectible rewards and visible milestones.
+## Not Every Recommendation Had the Same Evidence Strength
 
-**Outcome:** The rewards system was implemented in the launched product.
+One thing I would describe differently today is the six recommendations.
 
-## 3. Onboarding Assessment
+They were not equally supported.
 
-**Evidence:** Children's needs, developmental stages, interests, and preferences varied widely.
+Some came directly from repeated participant evidence.
 
-**Decision:** Use onboarding to capture relevant differences so the experience could begin from a more appropriate starting point.
+Others were strengthened primarily by competitive or accessibility research.
 
-## 4. Activity Library
+That distinction matters.
 
-**Evidence:** Preferred activities and interests differed substantially across children.
+### 1. Activity Roadmap
 
-**Decision:** Offer a structured but varied activity library that increased meaningful choice without removing guidance.
+**Evidence strength: Strong**
 
-## 5. Audio Guidance
+Participants repeatedly surfaced:
 
-**Evidence:** Children differed in how they processed instructions and engaged with activities.
+- progress visibility;
+- predictability;
+- knowing what came next;
+- maintaining motivation over time.
 
-**Decision:** Pair visual direction with audio guidance to provide another route through the experience.
+The roadmap addressed those needs by making progression visible rather than leaving the structure entirely in the clinician's head.
 
-## 6. Accessibility and Parent Controls
+It also reflected a broader product requirement:
 
-**Evidence:** Guardians wanted greater visibility and control, while the research suggested meaningful differences in sensory and visual preferences.
+**if ASD123 was going to work at home, some of the structure normally supplied by the therapist needed to exist in the product.**
 
-**Decision:** Recommend protected adult controls and adjustable visual stimulation without changing the underlying activity structure.
+### 2. Rewards and Milestones
 
-## The Larger Product Direction
+**Evidence strength: Strong**
 
-These recommendations were not six unrelated feature ideas.
+The education and clinical perspectives reinforced the importance of immediate buy-in.
 
-Together they reflected one broader strategy:
+Long-term speech improvement is meaningful to adults but abstract to a child.
+
+Children often need a reason to care about the current activity.
+
+Rewards translated therapeutic progress into something immediate and recognizable within the language of children's games.
+
+### 3. Activity Library
+
+**Evidence strength: Strong**
+
+Interests varied substantially between children.
+
+A single path through the product risked assuming that the same activities would motivate everyone.
+
+The activity library introduced choice while preserving a structured therapeutic environment.
+
+### 4. Accessibility and Parent Controls
+
+**Evidence strength: Moderate to strong**
+
+The research suggested wide variation in sensory preferences and environmental needs.
+
+Accessibility research reinforced that finding.
+
+I recommended greater control over visual stimulation and a protected parent area.
+
+Looking back, I would have preferred more than a binary "vivid / non-vivid" treatment.
+
+The research suggested a spectrum, not two universal states.
+
+### 5. Audio Guidance
+
+**Evidence strength: Moderate**
+
+Accessibility research and participant discussions suggested value in multiple routes for understanding instructions.
+
+Audio guidance was therefore recommended as a complementary interaction mode.
+
+I considered this useful, but not as central to the research story as roadmap, rewards, or activity choice.
+
+### 6. Onboarding Assessment
+
+**Evidence strength: Competitive / structural**
+
+Competitors frequently used onboarding to establish developmental level, goals, or personalization.
+
+The idea was therefore well supported as a category pattern.
+
+However, I was less confident that our team should specify the details of a speech assessment.
+
+That belonged much closer to clinical expertise.
+
+My recommendation was that the product make room for an assessment and personalization layer rather than pretending the research team could define the clinical instrument itself.
+
+## Breadth Versus Depth
+
+This became one of the main product-team tensions.
+
+I preferred to focus on fewer recommendations and develop them more deeply.
+
+The UI team felt they could explore all six within the sprint.
+
+We discussed the tradeoff and ultimately chose to visualize the full recommendation set.
+
+I was comfortable with that decision as long as the core research logic remained intact.
+
+In a real product environment, however, I would probably make a different call.
+
+I would prioritize the strongest hypotheses and test them earlier before investing heavily in additional interface work.
+
+## The Research-to-Design Handoff
+
+The handoff was collaborative rather than a formal document thrown over a wall.
+
+I kept the Miro board current throughout the sprint and walked the team through:
+
+- what had emerged;
+- why it mattered;
+- what each recommendation needed to accomplish.
+
+The team then decided together what to carry forward.
+
+My role was functional.
+
+I defined what the evidence suggested the experience needed to support.
+
+Ayami owned the visual and interaction design.
+
+That division worked well.
+
+I did not need to prescribe the interface for the research to influence the product.
+
+## The Larger Product Principle
+
+The six recommendations eventually condensed into one broader strategy:
 
 > **Guided flexibility**
 
-The experience needed enough structure to support progression and motivation while remaining flexible enough to accommodate meaningful differences between children.
+The product needed enough structure to:
+
+- orient the child;
+- create progression;
+- maintain therapeutic continuity;
+- reduce uncertainty.
+
+At the same time, it needed enough flexibility to:
+
+- reflect different interests;
+- accommodate sensory variation;
+- support different levels of attention;
+- give families meaningful control.
+
+That principle became more useful to me than any individual feature recommendation.
