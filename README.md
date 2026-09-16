@@ -29,8 +29,6 @@ The original research produced six product opportunities. Two of the strongest r
 
 Both directions came from recurring research around **visible progress, predictability, immediate motivation, and knowing what came next**.
 
-The live product continued to evolve beyond the 2023 prototype, so these images are not intended to show a complete replacement of the original experience. They show how two research-backed product directions became part of the shipped product.
-
 ### Prototype Walkthrough
 
 The 2023 prototype shows how the UI team translated the broader research recommendations into a proposed experience, including progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
