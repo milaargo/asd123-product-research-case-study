@@ -20,13 +20,16 @@ Product research for an AI-supported speech-development app, from a constrained 
 
 | Earlier ASD123 experience | Shipped product, 2026 |
 | --- | --- |
-| ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 shipped product experience](visuals/asd123_shipped.png) |
+| ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 shipped product experience showing roadmap progression and rewards](visuals/asd123_shipped.png) |
 
-The earlier ASD123 experience included a library of individual speech activities. One of the product directions that later shipped was a map-based progression system, giving children a clearer sense of movement through the experience.
+The original research produced six product opportunities. Two of the strongest research-backed directions were later incorporated into the live product:
 
-That direction aligned with one of the strongest findings from the original research: children benefited from **visible progress, predictability, immediate motivation, and knowing what came next**.
+- **Activity roadmap:** a map-based progression system that makes movement through the experience more visible and predictable.
+- **Rewards system:** stars earned through activity progress, giving children a more immediate signal of accomplishment and motivation to continue.
 
-The live product continued to evolve beyond the 2023 prototype, so these images are not intended to show a complete replacement of the original experience. They show one research-backed direction that became part of the product.
+Both directions came from recurring research around **visible progress, predictability, immediate motivation, and knowing what came next**.
+
+The live product continued to evolve beyond the 2023 prototype, so these images are not intended to show a complete replacement of the original experience. They show how two research-backed product directions became part of the shipped product.
 
 ### Prototype Walkthrough
 
