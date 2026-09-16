@@ -18,25 +18,19 @@ Product research for an AI-supported speech-development app, from a constrained 
 
 ## From Research to Product
 
-### Earlier ASD123 Experience
+| Earlier ASD123 experience | Shipped product, 2026 |
+| --- | --- |
+| ![Earlier ASD123 product experience](visuals/asd123_before.png) | ![ASD123 shipped product experience](visuals/asd123_shipped.png) |
 
-![Earlier ASD123 product experience](visuals/asd123_before.png)
+The earlier ASD123 experience included a library of individual speech activities. One of the product directions that later shipped was a map-based progression system, giving children a clearer sense of movement through the experience.
 
-The earlier experience centered on selecting individual speech activities from a game library. While the activities were available, the interface offered less visible structure around progression, what came next, or how a child was moving through the experience.
+That direction aligned with one of the strongest findings from the original research: children benefited from **visible progress, predictability, immediate motivation, and knowing what came next**.
 
-### Shipped Experience, 2026
-
-![ASD123 shipped product experience](visuals/asd123_shipped.png)
-
-The launched product introduced a map-based progression system with visible stages, locked future activities, and clearer signals of advancement.
-
-That direction closely reflects one of the strongest findings from the original research: children benefited from **visible progress, predictability, immediate motivation, and knowing what came next**.
-
-The final interface is not the same design our team proposed in 2023, and I think that distinction matters. The visual execution evolved, while the underlying research need remained relevant.
+The live product continued to evolve beyond the 2023 prototype, so these images are not intended to show a complete replacement of the original experience. They show one research-backed direction that became part of the product.
 
 ### Prototype Walkthrough
 
-The 2023 prototype shows how the UI team originally translated the research recommendations into a proposed experience, including visible progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
+The 2023 prototype shows how the UI team translated the broader research recommendations into a proposed experience, including progression, rewards, activity choice, onboarding, audio guidance, and accessibility controls.
 
 [▶ Watch the full ASD123 prototype walkthrough on YouTube](https://www.youtube.com/shorts/0XU4k_mGTg4)
 
